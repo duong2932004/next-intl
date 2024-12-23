@@ -1,0 +1,48 @@
+{
+  "language": {
+    "vi": "Việt nam",
+    "en": "Tiếng anh"
+  },
+  "IndexPage": {
+    "title": "Trang chủ",
+    "description": "Chào mừng bạn đên với trang chủ"
+  },
+  "NotFoundPage": {
+    "title": "404 Không tìm thấy",
+    "description": "Không tìm thấy đường dẫn này!"
+  },
+  "Navigation": {
+    "menu-small": {
+      "title": "Xin chào",
+      "description": "Chào mừng đến với nhà hàng",
+      "logged-in": {
+        "item-1": "Trang chủ",
+        "item-2": "Thực đơn",
+        "item-3": "Đơn hàng",
+        "item-4": "Đăng xuất"
+      },
+      "not-logged-in": {
+        "item-1": "Trang chủ",
+        "item-2": "Đăng nhập"
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "© 2024 Đơn đăng ký của bạn. Đã đăng ký Bản quyền."
+  },
+  "Login": {
+    "title": "Đăng nhập",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submit": "Đăng nhập"
+  },
+  "login-user": {
+    "title": "Đăng nhập",
+    "description": "Đăng nhập để có thể gọi món",
+    "Label": "Tên",
+    "placeholder": "Tên của bạn...",
+    "btn-submit": "Đăng nhập",
+    "login-success": "Đăng nhập thành công",
+    "Login-failed": "Đăng nhập không thành công"
+  }
+}

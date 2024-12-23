@@ -1,0 +1,42 @@
+{
+  "Language": {
+    "vi": "vietnamese",
+    "en": "english"
+  },
+  "IndexPage": {
+    "title": "Home",
+    "description": "Welcome to the homepage"
+  },
+  "NotFoundPage": {
+    "title": "404 Not Found",
+    "description": "No links found!"
+  },
+  "Navigation": {
+    "menu-small": {
+      "title": "Hello",
+      "description": "Welcome to the restaurant",
+      "logged-in": {
+        "item-1": "Home",
+        "item-2": "Menu",
+        "item-3": "Order",
+        "item-4": "Logout"
+      },
+      "not-logged-in": {
+        "item-1": "Home",
+        "item-2": "Login"
+      }
+    }
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  },
+  "login-user": {
+    "title": "Login",
+    "description": "Log in to order",
+    "Label": "Name",
+    "placeholder": "Your name...",
+    "btn-submit": "Login",
+    "login-success": "Login success",
+    "Login-failed": "Login Failed"
+  }
+}
